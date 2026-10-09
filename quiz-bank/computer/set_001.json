@@ -1,0 +1,802 @@
+[
+  {
+    "id": "computer_c92b51",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "easy",
+    "question": "OSI (Open Systems Interconnection) मॉडल में कुल कितनी परतें (Layers) होती हैं?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctIndex": 2,
+    "explanation": "OSI मॉडल में कुल 7 परतें होती हैं: फिजिकल, डेटा लिंक, नेटवर्क, ट्रांसपोर्ट, सेशन, प्रेजेंटेशन और एप्लिकेशन लेयर।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_71bdce",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "easy",
+    "question": "एक मानक IPv4 (Internet Protocol version 4) एड्रेस की लंबाई कितने बिट्स की होती है?",
+    "options": [
+      "16 बिट्स",
+      "32 बिट्स",
+      "64 बिट्स",
+      "128 बिट्स"
+    ],
+    "correctIndex": 1,
+    "explanation": "IPv4 एड्रेस 32 बिट्स (4 बाइट्स) लंबा होता है, जबकि IPv6 एड्रेस की लंबाई 128 बिट्स होती है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_208b91",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "easy",
+    "question": "निम्नलिखित में से किस डिवाइस को 'डम्ब डिवाइस' (Dumb Device) कहा जाता है क्योंकि यह प्राप्त डेटा को सभी पोर्ट्स पर ब्रॉडकास्ट कर देता है?",
+    "options": [
+      "स्विच (Switch)",
+      "हब (Hub)",
+      "राउटर (Router)",
+      "ब्रिज (Bridge)"
+    ],
+    "correctIndex": 1,
+    "explanation": "हब (Hub) एक गैर-बुद्धिमान (Dumb) नेटवर्किंग डिवाइस है जो किसी एक पोर्ट से आने वाले डेटा फ्रेम को गंतव्य की जांच किए बिना शेष सभी पोर्ट्स पर ब्रॉडकास्ट कर देता है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_52d8e6",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "easy",
+    "question": "वेब ब्राउज़र और वेब सर्वर के बीच संचार के लिए प्रयुक्त 'HTTP' का पूर्ण रूप क्या है?",
+    "options": [
+      "Hypertext Transfer Protocol",
+      "Hyperlink Text Transfer Protocol",
+      "High Transfer Text Protocol",
+      "Hypertext Transmission Program"
+    ],
+    "correctIndex": 0,
+    "explanation": "HTTP का पूर्ण रूप 'Hypertext Transfer Protocol' है। यह वर्ल्ड वाइड वेब पर डेटा संचार का मुख्य आधार है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_ecf28f",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "easy",
+    "question": "वॉकी-टॉकी (Walkie-Talkie) पर संचार किस प्रकार के ट्रांसमिशन मोड (Transmission Mode) का उदाहरण है?",
+    "options": [
+      "सिम्पलेक्स (Simplex)",
+      "हाफ-डुप्लेक्स (Half-Duplex)",
+      "फुल-डुप्लेक्स (Full-Duplex)",
+      "मल्टीप्लेक्स (Multiplex)"
+    ],
+    "correctIndex": 1,
+    "explanation": "हाफ-डुप्लेक्स में दोनों पक्ष डेटा भेज और प्राप्त कर सकते हैं, लेकिन एक समय में केवल एक ही दिशा में संचार संभव होता है, जैसा कि वॉकी-टॉकी में होता है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_3a9883",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "medium",
+    "question": "किस नेटवर्क टोपोलॉजी में प्रत्येक नोड नेटवर्क के हर दूसरे नोड से एक समर्पित (Dedicated) पॉइंट-टू-पॉइंट लिंक द्वारा सीधे जुड़ा होता है?",
+    "options": [
+      "स्टार टोपोलॉजी (Star)",
+      "रिंग टोपोलॉजी (Ring)",
+      "मेश टोपोलॉजी (Mesh)",
+      "बस टोपोलॉजी (Bus)"
+    ],
+    "correctIndex": 2,
+    "explanation": "मेश टोपोलॉजी (पूर्ण मेश) में प्रत्येक नोड अन्य सभी नोड्स से अलग-अलग समर्पित लिंक के जरिए सीधे जुड़ा होता है, जिसमें n(n-1)/2 लिंक की आवश्यकता होती है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_816c3b",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "medium",
+    "question": "OSI मॉडल की डेटा लिंक लेयर (Data Link Layer) पर प्रोटोकॉल डेटा यूनिट (PDU) को क्या कहा जाता है?",
+    "options": [
+      "पैकेट (Packet)",
+      "सेगमेंट (Segment)",
+      "फ्रेम (Frame)",
+      "बिट (Bit)"
+    ],
+    "correctIndex": 2,
+    "explanation": "डेटा लिंक लेयर पर डेटा इकाई को फ्रेम (Frame) कहा जाता है। फिजिकल लेयर पर बिट्स, नेटवर्क लेयर पर पैकेट्स और ट्रांसपोर्ट लेयर पर सेगमेंट्स होते हैं।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_94a805",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "medium",
+    "question": "डोमेन नाम (जैसे www.google.com) को संगत आईपी एड्रेस में बदलने के लिए किस नेटवर्क सेवा का उपयोग किया जाता है?",
+    "options": [
+      "DHCP (Dynamic Host Configuration Protocol)",
+      "DNS (Domain Name System)",
+      "ARP (Address Resolution Protocol)",
+      "FTP (File Transfer Protocol)"
+    ],
+    "correctIndex": 1,
+    "explanation": "DNS (Domain Name System) इंटरनेट की फोनबुक की तरह काम करता है, जो मानव-पठनीय डोमेन नामों को मशीन-पठनीय आईपी पतों में अनुवादित करता है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_51510e",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "medium",
+    "question": "किसी नेटवर्क इंटरफ़ेस कार्ड (NIC) का भौतिक पता यानी MAC (Media Access Control) एड्रेस कितने बिट्स का होता है?",
+    "options": [
+      "32 बिट्स",
+      "48 बिट्स",
+      "64 बिट्स",
+      "128 बिट्स"
+    ],
+    "correctIndex": 1,
+    "explanation": "MAC एड्रेस 48 बिट्स (6 बाइट्स) का एक विशिष्ट हेक्साडेसिमल भौतिक पता होता है, जो निर्माता द्वारा नेटवर्क इंटरफेस कार्ड में एम्बेड किया जाता है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_0da58f",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "medium",
+    "question": "TCP (Transmission Control Protocol) और UDP (User Datagram Protocol) OSI मॉडल की किस परत पर संचालित होते हैं?",
+    "options": [
+      "नेटवर्क लेयर",
+      "ट्रांसपोर्ट लेयर",
+      "सेशन लेयर",
+      "डेटा लिंक लेयर"
+    ],
+    "correctIndex": 1,
+    "explanation": "TCP और UDP मुख्य रूप से ट्रांसपोर्ट लेयर (Layer 4) पर कार्य करते हैं, जो एंड-टू-एंड संचार और प्रक्रिया-से-प्रक्रिया (Process-to-Process) डिलीवरी प्रदान करते हैं।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_bbd38b",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "medium",
+    "question": "किसी ज्ञात IP एड्रेस से संगत MAC (भौतिक) एड्रेस खोजने के लिए किस प्रोटोकॉल का उपयोग किया जाता है?",
+    "options": [
+      "RARP (Reverse ARP)",
+      "ICMP (Internet Control Message Protocol)",
+      "ARP (Address Resolution Protocol)",
+      "DHCP (Dynamic Host Configuration Protocol)"
+    ],
+    "correctIndex": 2,
+    "explanation": "ARP (Address Resolution Protocol) का उपयोग लॉजिकल IP पते को लोकल एरिया नेटवर्क पर भौतिक हार्डवेयर (MAC) पते में बदलने के लिए किया जाता है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_ad9d03",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "medium",
+    "question": "सिक्योर शेल (SSH - Secure Shell) प्रोटोकॉल डिफ़ॉल्ट रूप से किस पोर्ट नंबर (Port Number) का उपयोग करता है?",
+    "options": [
+      "पोर्ट 21",
+      "पोर्ट 22",
+      "पोर्ट 23",
+      "पोर्ट 25"
+    ],
+    "correctIndex": 1,
+    "explanation": "SSH सुरक्षित रिमोट लॉगिन के लिए डिफ़ॉल्ट पोर्ट 22 का उपयोग करता है। पोर्ट 21 FTP, पोर्ट 23 Telnet और पोर्ट 25 SMTP द्वारा उपयोग किया जाता है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_62107f",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "medium",
+    "question": "नेटवर्क कनेक्टिविटी और नोड की सक्रियता की जांच के लिए उपयोग किया जाने वाला 'Ping' कमांड किस प्रोटोकॉल पर आधारित है?",
+    "options": [
+      "IGMP",
+      "ICMP (Internet Control Message Protocol)",
+      "SNMP",
+      "SMTP"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ping कमांड ICMP के 'Echo Request' और 'Echo Reply' संदेशों का उपयोग करके दो नोड्स के बीच नेटवर्क कनेक्टिविटी और लेटेंसी की जांच करता है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_0915b6",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "medium",
+    "question": "दो भिन्न प्रोटोकॉल सूट पर आधारित असमान (Heterogeneous) नेटवर्कों को आपस में जोड़ने के लिए किस नेटवर्किंग डिवाइस का उपयोग किया जाता है?",
+    "options": [
+      "रिपीटर (Repeater)",
+      "ब्रिज (Bridge)",
+      "गेटवे (Gateway)",
+      "हब (Hub)"
+    ],
+    "correctIndex": 2,
+    "explanation": "गेटवे (Gateway) एक प्रोटोकॉल कनवर्टर के रूप में कार्य करता है और यह विभिन्न आर्किटेक्चर एवं प्रोटोकॉल वाले दो अलग-अलग नेटवर्कों के बीच संचार को संभव बनाता है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_6a7a8c",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "medium",
+    "question": "निम्नलिखित में से कौन-सा कनेक्शन-रहित (Connectionless) और अविश्वसनीय (Unreliable) ट्रांसपोर्ट लेयर प्रोटोकॉल है?",
+    "options": [
+      "TCP",
+      "SCTP",
+      "UDP (User Datagram Protocol)",
+      "FTP"
+    ],
+    "correctIndex": 2,
+    "explanation": "UDP एक कनेक्शन-रहित प्रोटोकॉल है। यह पावती (Acknowledgment) या प्रवाह नियंत्रण प्रदान नहीं करता, जिससे यह तीव्र होता है किंतु डेटा डिलीवरी की गारंटी नहीं देता।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_19e589",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "hard",
+    "question": "क्लासफुल IPv4 एड्रेसिंग में 'Class C' नेटवर्क का डिफ़ॉल्ट सबनेट मास्क (Default Subnet Mask) क्या होता है?",
+    "options": [
+      "255.0.0.0",
+      "255.255.0.0",
+      "255.255.255.0",
+      "255.255.255.255"
+    ],
+    "correctIndex": 2,
+    "explanation": "Class C नेटवर्क में पहले 24 बिट नेटवर्क ID के लिए और अंतिम 8 बिट होस्ट ID के लिए आरक्षित होते हैं, अतः इसका डिफ़ॉल्ट सबनेट मास्क 255.255.255.0 (/24) होता है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_736bd5",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "hard",
+    "question": "हाफ-डुप्लेक्स ईथरनेट (IEEE 802.3) नेटवर्क में टकराव का पता लगाने (Collision Detection) के लिए किस मीडिया एक्सेस कंट्रोल तकनीक का उपयोग किया जाता है?",
+    "options": [
+      "CSMA/CA",
+      "CSMA/CD",
+      "टोकन पासिंग (Token Passing)",
+      "अलोहा (ALOHA)"
+    ],
+    "correctIndex": 1,
+    "explanation": "CSMA/CD (Carrier Sense Multiple Access with Collision Detection) का उपयोग ईथरनेट में एक ही ट्रांसमिशन माध्यम पर एक साथ होने वाले पैकेट टकराव को डिटेक्ट और हैंडल करने के लिए किया जाता है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_4c730d",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "hard",
+    "question": "CIDR नोटेशन '192.168.10.0/26' वाले सबनेट में अधिकतम कितने उपयोग योग्य (Usable) होस्ट आईपी एड्रेस उपलब्ध होंगे?",
+    "options": [
+      "64",
+      "62",
+      "30",
+      "126"
+    ],
+    "correctIndex": 1,
+    "explanation": "/26 सबनेट मास्क में होस्ट बिट्स की संख्या 32 - 26 = 6 होती है। कुल आईपी = 2^6 = 64 होते हैं। इनमें से 2 पते (नेटवर्क आईडी और ब्रॉडकास्ट आईडी) आरक्षित होते हैं, इसलिए प्रयोग योग्य होस्ट 64 - 2 = 62 होंगे।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_89c705",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "hard",
+    "question": "OSI मॉडल की कौन-सी परत डेटा संपीड़न (Compression), डेटा एन्क्रिप्शन (Encryption) और कोड रूपांतरण (Syntax Translation) के लिए उत्तरदायी है?",
+    "options": [
+      "सेशन लेयर (Session Layer)",
+      "प्रेजेंटेशन लेयर (Presentation Layer)",
+      "एप्लिकेशन लेयर (Application Layer)",
+      "ट्रांसपोर्ट लेयर (Transport Layer)"
+    ],
+    "correctIndex": 1,
+    "explanation": "प्रेजेंटेशन लेयर (Layer 6) डेटा के सिंटैक्स और सेमांटिक्स को संभालती है। यह एन्क्रिप्शन/डिक्रिप्शन, कम्प्रेशन और विभिन्न एन्कोडिंग प्रारूपों (जैसे ASCII से EBCDIC) के अनुवाद के लिए जिम्मेदार है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_6aa465",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "hard",
+    "question": "स्लाइडिंग विंडो फ्लो कंट्रोल में 'Go-Back-N ARQ' प्रोटोकॉल के अंतर्गत रिसीवर विंडो का आकार (Receiver Window Size) हमेशा कितना होता है?",
+    "options": [
+      "1",
+      "N",
+      "N - 1",
+      "2^N"
+    ],
+    "correctIndex": 0,
+    "explanation": "Go-Back-N ARQ में सेंडर विंडो का आकार N होता है, लेकिन रिसीवर विंडो का आकार सदैव 1 होता है क्योंकि रिसीवर केवल क्रमबद्ध (in-order) फ्रेम ही स्वीकार करता है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_53e261",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "easy",
+    "question": "IPv4 पते (Address) का आकार कितने बिट्स (Bits) का होता है?",
+    "options": [
+      "16 बिट्स",
+      "32 बिट्स",
+      "64 बिट्स",
+      "128 बिट्स"
+    ],
+    "correctIndex": 1,
+    "explanation": "IPv4 एड्रेस 32 बिट्स लंबा होता है, जिसे चार ऑक्टेट्स (प्रत्येक 8 बिट) में विभाजित किया जाता है और दशमलव बिंदुओं (dot-decimal notation) द्वारा अलग किया जाता है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_f9c5e2",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "easy",
+    "question": "निम्नलिखित में से कौन-सा उपकरण OSI मॉडल की नेटवर्क लेयर (Network Layer) पर कार्य करता है?",
+    "options": [
+      "रिपीटर (Repeater)",
+      "हब (Hub)",
+      "राउटर (Router)",
+      "ब्रिज (Bridge)"
+    ],
+    "correctIndex": 2,
+    "explanation": "राउटर OSI मॉडल की लेयर 3 (नेटवर्क लेयर) पर काम करता है और यह विभिन्न नेटवर्कों के बीच IP पैकेट्स को रूट करने का कार्य करता है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_7c9b7a",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "easy",
+    "question": "किस नेटवर्क टोपोलॉजी में सभी नोड्स सीधे एक केंद्रीय डिवाइस (हब या स्विच) से जुड़े होते हैं?",
+    "options": [
+      "बस टोपोलॉजी",
+      "स्टार टोपोलॉजी",
+      "रिंग टोपोलॉजी",
+      "मेश टोपोलॉजी"
+    ],
+    "correctIndex": 1,
+    "explanation": "स्टार टोपोलॉजी में सभी कंप्यूटर और नेटवर्क डिवाइस एक केंद्रीय हब या स्विच से पॉइंट-टू-पॉइंट कनेक्शन के माध्यम से जुड़े होते हैं।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_456511",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "medium",
+    "question": "OSI मॉडल की ट्रांसपोर्ट लेयर (Transport Layer) पर डेटा यूनिट (PDU) को क्या कहा जाता है?",
+    "options": [
+      "फ्रेम (Frame)",
+      "पैकेट (Packet)",
+      "सेगमेंट (Segment)",
+      "बिट्स (Bits)"
+    ],
+    "correctIndex": 2,
+    "explanation": "ट्रांसपोर्ट लेयर पर प्रोटोकॉल डेटा यूनिट (PDU) को 'सेगमेंट' (Segment) कहा जाता है। डेटा लिंक लेयर पर इसे फ्रेम और नेटवर्क लेयर पर पैकेट कहा जाता है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_92cc67",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "medium",
+    "question": "डोमेन नेम सिस्टम (DNS) सेवा मानक रूप से किस पोर्ट नंबर का उपयोग करती है?",
+    "options": [
+      "21",
+      "25",
+      "53",
+      "80"
+    ],
+    "correctIndex": 2,
+    "explanation": "DNS (Domain Name System) सामान्यतः पोर्ट नंबर 53 का उपयोग करता है और यह मुख्य रूप से UDP प्रोटोकॉल पर कार्य करता है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_2e9611",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "medium",
+    "question": "IP एड्रेस को भौतिक MAC एड्रेस में मैप करने के लिए किस प्रोटोकॉल का उपयोग किया जाता है?",
+    "options": [
+      "ARP",
+      "RARP",
+      "DHCP",
+      "ICMP"
+    ],
+    "correctIndex": 0,
+    "explanation": "ARP (Address Resolution Protocol) का उपयोग लॉजिकल IP एड्रेस से संबंधित फिजिकल (MAC) एड्रेस का पता लगाने के लिए किया जाता है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_62d76b",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "easy",
+    "question": "IPv6 एड्रेस की लंबाई कितनी होती है?",
+    "options": [
+      "32 बिट्स",
+      "64 बिट्स",
+      "128 बिट्स",
+      "256 बिट्स"
+    ],
+    "correctIndex": 2,
+    "explanation": "IPv6 एड्रेस 128 बिट्स का होता है और इसे हेक्साडेसिमल प्रारूप में कोलन (:) द्वारा अलग किए गए 8 समूहों में लिखा जाता है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_45efc6",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "medium",
+    "question": "क्लास C (Class C) IPv4 नेटवर्क का डिफ़ॉल्ट सबनेट मास्क क्या होता है?",
+    "options": [
+      "255.0.0.0",
+      "255.255.0.0",
+      "255.255.255.0",
+      "255.255.255.255"
+    ],
+    "correctIndex": 2,
+    "explanation": "क्लास C नेटवर्क में पहले 24 बिट्स नेटवर्क ID के लिए और अंतिम 8 बिट्स होस्ट ID के लिए होते हैं, इसलिए इसका डिफ़ॉल्ट सबनेट मास्क 255.255.255.0 होता है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_7ccddc",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "hard",
+    "question": "'n' नोड्स वाले एक पूर्ण मेश (Full Mesh) नेटवर्क में आवश्यक द्विदिशीय भौतिक लिंक्स की कुल संख्या क्या होगी?",
+    "options": [
+      "n - 1",
+      "n(n - 1)",
+      "n(n - 1) / 2",
+      "2n"
+    ],
+    "correctIndex": 2,
+    "explanation": "फुल मेश टोपोलॉजी में प्रत्येक नोड अन्य सभी नोड्स से जुड़ा होता है। इसलिए आवश्यक लिंक्स की संख्या सूत्र n(n - 1) / 2 द्वारा निर्धारित होती है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_fbf892",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "medium",
+    "question": "OSI मॉडल की कौन-सी परत डेटा संपीड़न (Data Compression) और एन्क्रिप्शन के लिए जिम्मेदार होती है?",
+    "options": [
+      "एप्लिकेशन लेयर",
+      "प्रेजेंटेशन लेयर",
+      "सेशन लेयर",
+      "ट्रांसपोर्ट लेयर"
+    ],
+    "correctIndex": 1,
+    "explanation": "प्रेजेंटेशन लेयर डेटा ट्रांसलेशन, डेटा फॉर्मेटिंग, एन्क्रिप्शन/डिक्रिप्शन और डेटा कम्प्रेशन के कार्यों के लिए उत्तरदायी होती है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_516a8c",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "medium",
+    "question": "ईथरनेट (Ethernet) LAN में टकराव (Collision) प्रबंधन के लिए किस प्रोटोकॉल का उपयोग किया जाता है?",
+    "options": [
+      "CSMA/CA",
+      "CSMA/CD",
+      "टोकन पासिंग",
+      "ALOHA"
+    ],
+    "correctIndex": 1,
+    "explanation": "ईथरनेट वायर्ड नेटवर्क में CSMA/CD (Carrier Sense Multiple Access with Collision Detection) का उपयोग डेटा टकराव का पता लगाने और उसे प्रबंधित करने के लिए किया जाता है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_a6e917",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "medium",
+    "question": "MAC (Media Access Control) एड्रेस का आकार कितना होता है?",
+    "options": [
+      "32 बिट्स",
+      "48 बिट्स",
+      "64 बिट्स",
+      "128 बिट्स"
+    ],
+    "correctIndex": 1,
+    "explanation": "MAC एड्रेस 48 बिट्स (6 बाइट्स) का एक भौतिक पता होता है जिसे नेटवर्क इंटरफेस कार्ड (NIC) पर स्थायी रूप से बर्न किया जाता है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_5d7d59",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "medium",
+    "question": "'Ping' कमांड नेटवर्क कनेक्टिविटी और उपलब्धता का परीक्षण करने के लिए किस प्रोटोकॉल का उपयोग करती है?",
+    "options": [
+      "IGMP",
+      "ICMP",
+      "ARP",
+      "SNMP"
+    ],
+    "correctIndex": 1,
+    "explanation": "पिंग कमांड ICMP (Internet Control Message Protocol) के Echo Request और Echo Reply संदेशों का उपयोग करके रिमोट होस्ट की कनेक्टिविटी जांचती है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_de6000",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "hard",
+    "question": "सबनेट मास्क 255.255.255.240 (/28) वाले नेटवर्क में प्रति सबनेट कितने उपयोग योग्य (Usable) होस्ट एड्रेस हो सकते हैं?",
+    "options": [
+      "14",
+      "16",
+      "30",
+      "32"
+    ],
+    "correctIndex": 0,
+    "explanation": "सबनेट मास्क /28 में होस्ट के लिए 4 बिट्स बचते हैं (32 - 28 = 4)। कुल IP = 2^4 = 16। नेटवर्क और ब्रॉडकास्ट एड्रेस घटाने पर उपयोग योग्य होस्ट = 16 - 2 = 14 होंगे।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_e5b364",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "easy",
+    "question": "नेटवर्क में क्लाइंट्स को स्वचालित रूप से IP एड्रेस आवंटित करने के लिए किस प्रोटोकॉल का उपयोग किया जाता है?",
+    "options": [
+      "DNS",
+      "DHCP",
+      "FTP",
+      "SMTP"
+    ],
+    "correctIndex": 1,
+    "explanation": "DHCP (Dynamic Host Configuration Protocol) क्लाइंट डिवाइसेज को स्वचालित रूप से IP एड्रेस, सबनेट मास्क और गेटवे आवंटित करता है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_81414f",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "medium",
+    "question": "ऑप्टिकल फाइबर केबल में प्रकाश संकेतों का संचरण भौतिकी के किस सिद्धांत पर आधारित होता है?",
+    "options": [
+      "पूर्ण आंतरिक परावर्तन",
+      "प्रकाश का अपवर्तन",
+      "प्रकाश का विवर्तन",
+      "प्रकाश का ध्रुवण"
+    ],
+    "correctIndex": 0,
+    "explanation": "ऑप्टिकल फाइबर केबल पूर्ण आंतरिक परावर्तन (Total Internal Reflection) के सिद्धांत पर कार्य करती है, जिसमें प्रकाश सिग्नल कोर के भीतर परावर्तित होकर यात्रा करते हैं।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_58feb5",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "hard",
+    "question": "TCP में कनेक्शन स्थापित करने के लिए 'थ्री-वे हैंडशेक' (Three-Way Handshake) में फ्लैग्स का सही क्रम क्या है?",
+    "options": [
+      "ACK -> SYN -> SYN-ACK",
+      "SYN -> SYN-ACK -> ACK",
+      "SYN -> ACK -> SYN-ACK",
+      "FIN -> ACK -> FIN-ACK"
+    ],
+    "correctIndex": 1,
+    "explanation": "TCP थ्री-वे हैंडशेक में क्लाइंट पहले SYN पैकेट भेजता है, फिर सर्वर SYN-ACK भेजता है, और अंत में क्लाइंट कनेक्शन स्थापित करने के लिए ACK पैकेट भेजता है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_150c52",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "hard",
+    "question": "IEEE 802 मानकों के अनुसार डेटा लिंक लेयर को किन दो उप-परतों (Sub-layers) में विभाजित किया गया है?",
+    "options": [
+      "LLC और MAC",
+      "IP और ARP",
+      "TCP और UDP",
+      "फिजिकल और लॉजिकल"
+    ],
+    "correctIndex": 0,
+    "explanation": "IEEE 802 विनिर्देशों के अनुसार डेटा लिंक लेयर को दो उप-परतों में विभाजित किया गया है: LLC (Logical Link Control) और MAC (Media Access Control)।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_dc0af2",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "easy",
+    "question": "किस नेटवर्क टोपोलॉजी में सभी नोड्स या कंप्यूटर एक केंद्रीय डिवाइस (जैसे हब या स्विच) से जुड़े होते हैं?",
+    "options": [
+      "स्टार टोपोलॉजी",
+      "रिंग टोपोलॉजी",
+      "बस टोपोलॉजी",
+      "मेश टोपोलॉजी"
+    ],
+    "correctIndex": 0,
+    "explanation": "स्टार टोपोलॉजी में प्रत्येक नेटवर्क होस्ट एक केंद्रीय हब या स्विच से पॉइंट-टू-पॉइंट कनेक्शन के माध्यम से जुड़ा होता है। यदि कोई एक केबल टूटती है, तो केवल वही नोड प्रभावित होता है, पूरा नेटवर्क नहीं।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_bcd7b3",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "easy",
+    "question": "एक मानक IPv4 (इंटरनेट प्रोटोकॉल संस्करण 4) एड्रेस की कुल लंबाई कितनी बिट्स होती है?",
+    "options": [
+      "16 बिट्स",
+      "32 बिट्स",
+      "64 बिट्स",
+      "128 बिट्स"
+    ],
+    "correctIndex": 1,
+    "explanation": "IPv4 एड्रेस 32 बिट्स (या 4 बाइट्स) लंबा होता है, जिसे आमतौर पर डॉटेड-डेसिमल प्रारूप (जैसे 192.168.1.1) में दर्शाया जाता है। इसके विपरीत, IPv6 एड्रेस 128 बिट्स लंबा होता है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_a5e212",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "easy",
+    "question": "ISO द्वारा विकसित मानक OSI (Open Systems Interconnection) संदर्भ मॉडल में कुल कितनी परतें (Layers) होती हैं?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctIndex": 2,
+    "explanation": "OSI मॉडल में 7 परतें होती हैं: फिजिकल, डेटा लिंक, नेटवर्क, ट्रांसपोर्ट, सेशन, प्रेजेंटेशन और एप्लिकेशन लेयर।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_642fba",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "medium",
+    "question": "किसी नेटवर्क इंटरफेस कार्ड (NIC) के भौतिक पते यानी मैक एड्रेस (MAC Address) का आकार कितना होता है?",
+    "options": [
+      "32 बिट्स",
+      "48 बिट्स",
+      "64 बिट्स",
+      "128 बिट्स"
+    ],
+    "correctIndex": 1,
+    "explanation": "मैक (Media Access Control) एड्रेस 48 बिट्स (6 बाइट्स) का एक विशिष्ट हार्डवेयर पहचानकर्ता होता है, जिसे हेक्साडेसिमल प्रारूप (जैसे 00:1A:2B:3C:4D:5E) में लिखा जाता है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_189d37",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "medium",
+    "question": "कौन सा प्रोटोकॉल तार्किक आईपी पते (Logical IP Address) को भौतिक मैक पते (Physical MAC Address) में मैप या रिज़ॉल्व करने के लिए उपयोग किया जाता है?",
+    "options": [
+      "ARP (एड्रेस रिज़ॉल्यूशन प्रोटोकॉल)",
+      "DHCP (डायनेमिक होस्ट कॉन्फ़िगरेशन प्रोटोकॉल)",
+      "DNS (डोमेन नेम सिस्टम)",
+      "ICMP (इंटरनेट कंट्रोल मैसेज प्रोटोकॉल)"
+    ],
+    "correctIndex": 0,
+    "explanation": "ARP (Address Resolution Protocol) का उपयोग किसी दिए गए स्थानीय IP पते के संगत 48-बिट MAC पते को खोजने के लिए किया जाता है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_2d87c2",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "medium",
+    "question": "OSI मॉडल की कौन सी परत पैकेट रूटिंग, लॉजिकल एड्रेसिंग और सबसे उपयुक्त पाथ निर्धारण के लिए उत्तरदायी है?",
+    "options": [
+      "डेटा लिंक लेयर",
+      "नेटवर्क लेयर",
+      "ट्रांसपोर्ट लेयर",
+      "सेशन लेयर"
+    ],
+    "correctIndex": 1,
+    "explanation": "नेटवर्क लेयर (Layer 3) मुख्य रूप से डेटा पैकेटों की रूटिंग, फॉरवर्डिंग और लॉजिकल एड्रेसिंग (IP एड्रेस) का प्रबंधन करती है। राउटर इसी लेयर पर कार्य करते हैं।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_c346de",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "medium",
+    "question": "निम्नलिखित में से कौन सा ट्रांसपोर्ट लेयर प्रोटोकॉल 'कनेक्शन-रहित' (Connectionless) और 'अविश्वसनीय' (Unreliable) ट्रांसमिशन प्रदान करता है, लेकिन कम ओवरहेड के कारण लाइव स्ट्रीमिंग के लिए उपयुक्त है?",
+    "options": [
+      "TCP (ट्रांसमिशन कंट्रोल प्रोटोकॉल)",
+      "UDP (यूज़र डेटाग्राम प्रोटोकॉल)",
+      "SCTP (स्ट्रीम कंट्रोल ट्रांसमिशन प्रोटोकॉल)",
+      "FTP (फ़ाइल ट्रांसफ़र प्रोटोकॉल)"
+    ],
+    "correctIndex": 1,
+    "explanation": "UDP (User Datagram Protocol) एक कनेक्शन-रहित और अविश्वसनीय प्रोटोकॉल है जिसमें डेटा प्राप्ति की पावती (Acknowledgement) नहीं होती, जिससे विलंबता (Latency) कम होती है और यह लाइव स्ट्रीमिंग व गेमिंग के लिए आदर्श बनता है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_521a93",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "medium",
+    "question": "निम्नलिखित में से कौन सा नेटवर्किंग उपकरण OSI मॉडल के डेटा लिंक लेयर (Layer 2) पर कार्य करता है और MAC एड्रेस टेबल का उपयोग करके डेटा फ्रेम को फ़िल्टर व फ़ॉरवर्ड करता है?",
+    "options": [
+      "रिपीटर (Repeater)",
+      "हब (Hub)",
+      "स्विच (Switch)",
+      "राउटर (Router)"
+    ],
+    "correctIndex": 2,
+    "explanation": "स्विच (Switch) Layer 2 डिवाइस है। यह MAC एड्रेस टेबल (CAM टेबल) के आधार पर डेटा फ्रेम्स को केवल उसी विशेष पोर्ट पर भेजता है जिससे लक्षित डिवाइस जुड़ा होता है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_cab078",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "hard",
+    "question": "सबनेट मास्क 255.255.255.224 (/27) के साथ, एक सबनेट में उपयोग करने योग्य वैध होस्ट (Usable Host IP) की अधिकतम संख्या कितनी हो सकती है?",
+    "options": [
+      "14",
+      "30",
+      "32",
+      "62"
+    ],
+    "correctIndex": 1,
+    "explanation": "/27 सबनेट में होस्ट बिट्स की संख्या 32 - 27 = 5 होती है। कुल IP पते 2^5 = 32 होते हैं। नेटवर्क आईडी और ब्रॉडकास्ट पते को घटाने के बाद वैध होस्ट आईपी की संख्या 2^5 - 2 = 30 बचती है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_a1ec7a",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "hard",
+    "question": "कौन सा रूटिंग प्रोटोकॉल 'डिजाकस्ट्रा के शॉर्टेस्ट पाथ फर्स्ट (SPF)' एल्गोरिदम का उपयोग करता है और एक लिंक-स्टेट (Link-State) प्रोटोकॉल का उदाहरण है?",
+    "options": [
+      "RIP (Routing Information Protocol)",
+      "OSPF (Open Shortest Path First)",
+      "BGP (Border Gateway Protocol)",
+      "EGP (Exterior Gateway Protocol)"
+    ],
+    "correctIndex": 1,
+    "explanation": "OSPF एक लिंक-स्टेट रूटिंग प्रोटोकॉल है जो नेटवर्क के भीतर सर्वोत्तम पथ की गणना करने के लिए एड्सगर डिजाकस्ट्रा के SPF (Shortest Path First) एल्गोरिदम का उपयोग करता है। जबकि RIP एक डिस्टेंस-वेक्टर प्रोटोकॉल है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_226349",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "hard",
+    "question": "पारंपरिक वायर्ड ईथरनेट (IEEE 802.3) नेटवर्क में एक साझा माध्यम (Shared Media) पर डेटा टकराव (Collision) को प्रबंधित करने के लिए किस प्रोटोकॉल का उपयोग किया जाता है?",
+    "options": [
+      "CSMA/CA",
+      "CSMA/CD",
+      "टोकन पासिंग",
+      "TDMA"
+    ],
+    "correctIndex": 1,
+    "explanation": "ईथरनेट (IEEE 802.3) में CSMA/CD (Carrier Sense Multiple Access with Collision Detection) का उपयोग किया जाता है। वहीं वाई-फाई (IEEE 802.11) में टकराव से बचने के लिए CSMA/CA (Collision Avoidance) का प्रयोग होता है।",
+    "language": "hi"
+  },
+  {
+    "id": "computer_a6b9d6",
+    "subject": "computer",
+    "topic": "Networking",
+    "difficulty": "hard",
+    "question": "टीसीपी (TCP) कनेक्शन स्थापित करने की प्रक्रिया (3-Way Handshake) में पैकेट्स का सही अनुक्रम क्या होता है?",
+    "options": [
+      "SYN -> ACK -> SYN-ACK",
+      "SYN -> SYN-ACK -> ACK",
+      "ACK -> SYN -> SYN-ACK",
+      "FIN -> ACK -> FIN-ACK"
+    ],
+    "correctIndex": 1,
+    "explanation": "TCP 3-वे हैंडशेक में क्लाइंट पहले सर्वर को SYN भेजता है, फिर सर्वर SYN-ACK के साथ उत्तर देता है, और अंत में क्लाइंट कनेक्शन स्थापित करने के लिए ACK भेजता है (SYN -> SYN-ACK -> ACK)।",
+    "language": "hi"
+  }
+]

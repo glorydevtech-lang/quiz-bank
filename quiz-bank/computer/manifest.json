@@ -1,0 +1,13 @@
+{
+  "subjectId": "computer",
+  "subjectName": "Computer",
+  "totalQuestions": 50,
+  "sets": [
+    {
+      "setId": "computer_set_001",
+      "setName": "Set 1",
+      "file": "set_001.json",
+      "questionCount": 50
+    }
+  ]
+}

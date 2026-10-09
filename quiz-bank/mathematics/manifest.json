@@ -1,0 +1,13 @@
+{
+  "subjectId": "mathematics",
+  "subjectName": "Mathematics",
+  "totalQuestions": 50,
+  "sets": [
+    {
+      "setId": "mathematics_set_001",
+      "setName": "Set 1",
+      "file": "set_001.json",
+      "questionCount": 50
+    }
+  ]
+}

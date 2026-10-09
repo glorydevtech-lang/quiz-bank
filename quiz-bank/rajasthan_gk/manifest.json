@@ -1,0 +1,19 @@
+{
+  "subjectId": "rajasthan_gk",
+  "subjectName": "Rajasthan GK",
+  "totalQuestions": 100,
+  "sets": [
+    {
+      "setId": "rajasthan_gk_set_001",
+      "setName": "Set 1",
+      "file": "set_001.json",
+      "questionCount": 50
+    },
+    {
+      "setId": "rajasthan_gk_set_002",
+      "setName": "Set 2",
+      "file": "set_002.json",
+      "questionCount": 50
+    }
+  ]
+}
